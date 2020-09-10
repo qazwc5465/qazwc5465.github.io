@@ -1,7 +1,7 @@
 ---
 layout: page
-title:天堂
-subtitle:my name is 神兵小将
+title:Bonjour
+subtitle:my name is qazwc5465
 sitemap:
   priority: 0.9
 ---
@@ -9,5 +9,5 @@ sitemap:
 <img src="{{ '/assets/img/pudhina.jpg' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
-	<p>鸡翅膀<strong> <a href="https://github.com/knhash/Pudhina"> repository</a> </strong></p>
+	<p>Resour<strong> <a href="https://github.com/knhash/Pudhina"> repository</a> </strong></p>
 </div>
