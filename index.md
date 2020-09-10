@@ -1,6 +1,6 @@
 ---
 layout: page
-title:こんにちは
+title:天堂
 subtitle:my name is 神兵小将
 sitemap:
   priority: 0.9
