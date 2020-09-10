@@ -14,6 +14,10 @@ subtitle: An awesome person
 ### SKILLS
 ``` Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sed porttitor mi. In bibendum tortor nec massa finibus, id ultricies urna pulvinar. Sed congue blandit est non sagittis. In eget lobortis ipsum. Quisque id nisl nisl. Donec nec dapibus diam. Donec vel euismod nisi.  ```   
 ### PROJECTS
+
+Title - **Comapany** <span style="float: right; ">Duration</span>  
+
+
 <!--
 **Title** - Description - Place <span style="float: right; ">Time span</span>  
 Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse platea dictumst. Etiam facilisis velit velit, id dapibus lacus bibendum nec. Proin euismod tortor non nunc luctus, ut varius mauris tristique.  
@@ -28,7 +32,10 @@ Pellentesque euismod odio nec mollis rutrum. Nulla facilisi. In hac habitasse pl
 
 ### EDUCATION
 
+Title - **Comapany** <span style="float: right; ">Duration</span>  
+
  <br>大专
+
  <!-- 
 Institute <span style="float: right; ">Duration</span>  
 **Course**  
@@ -54,6 +61,8 @@ Title - **Comapany** <span style="float: right; ">Duration</span>
 不要过于注重程序的“设计模式”。 有时候，写一个简单的算法，要比引入某种模式更容易。在多数情况下，程序代码应是简单易懂，甚至清洁工也能看懂。
 
 ### RECOGNITION & INTERESTS
+
+Title - **Comapany** <span style="float: right; ">Duration</span>  
 
  <br>学习先进的搜索技术、手段和逻辑思维方式
  <br>深入学习一点先进理念

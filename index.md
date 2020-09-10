@@ -1,7 +1,7 @@
 ---
 layout: page
 title: こんにちは
-subtitle: my name is wzry
+subtitle: 我是老实人
 sitemap:
   priority: 0.9
 ---
@@ -9,5 +9,5 @@ sitemap:
 <img src="{{ '/assets/img/timg.jpg' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
-	<p>Resour<strong> <a href="https://github.com/knhash/Pudhina"> repository</a> </strong></p>
+	<p>资源<strong> <a href="https://github.com/knhash/Pudhina"> repository</a> </strong></p>
 </div>
