@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello
-subtitle: My name is Pudhina
+title:こんにちは
+subtitle:my name is 神兵小将
 sitemap:
   priority: 0.9
 ---
