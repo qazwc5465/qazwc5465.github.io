@@ -6,7 +6,7 @@ sitemap:
   priority: 0.9
 ---
 
-<img src="{{ '/assets/img/jcb.jpg' | prepend: site.baseurl }}" id="about-img">
+<img src="{{ '/assets/img/timg.jpg' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
 	<p>Resour<strong> <a href="https://github.com/knhash/Pudhina"> repository</a> </strong></p>
