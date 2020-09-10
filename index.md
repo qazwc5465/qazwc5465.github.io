@@ -9,5 +9,5 @@ sitemap:
 <img src="{{ '/assets/img/timg.jpg' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
-	<p>资源<strong> <a href="https://github.com/knhash/Pudhina"> repository</a> </strong></p>
+	<p>这里是<strong> <a href="https://github.com/knhash/Pudhina"> repository</a> </strong></p>
 </div>
