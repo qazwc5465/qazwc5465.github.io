@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Bonjour
-subtitle: my name is qazwc5465
+title: こんにちは
+subtitle: my name is wzry
 sitemap:
   priority: 0.9
 ---
