@@ -5,33 +5,7 @@ subtitle: 可以在这里留言
 ---
 
 
-<div class="pl">
-<form action="" method="post" style="width:699; height:200px;">
-<div class="yhm">
 
-<div class="yhmz" style="width:200px; height:33px;float:left; padding:9px">
-  <input type="text" name="bhxy" placeholder="模型">
-  </div>
-
-<div class="ll" style="width:200px; height:33px; float:left; padding:9px">
-  <input type="text" name="bhxy" placeholder="崩坏学园">
-  </div>
-
-<div class="oo" style="width:200px; height:33px; float:left; padding:9px">
-  <input type="text" name="bhxy" placeholder="投稿">
-  </div>
-
-  <div class="oo" style="width:200px; height:33px; float:left; padding:9px">
-  <input type="text" name="bhxy"  placeholder="名字">
-  </div>
-
-  <div class="oo" style="width:200px; height:33px; float:left; padding:9px">
-  <input type="text" name="bhxy"  placeholder="邮箱">
-  </div>
-
-  <div class="oo" style="width:200px; height:33px; float:left; padding:9px">
-  <input type="text" name="bhxy"   placeholder="人物">
-  </div>
 
 
 <div class="about">
