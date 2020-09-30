@@ -8,6 +8,8 @@ sitemap:
 
 <img src="{{ '/assets/img/timg.jpg' | prepend: site.baseurl }}" id="about-img">
 
+<div style="background:red;"></div>
+
 <div id="describe-text">
 	<p>这里是<strong> <a href="https://github.com/knhash/Pudhina"> repository</a> </strong></p>
 </div>
