@@ -13,6 +13,8 @@ subtitle: 可以在这里留言
  邮箱 : <input type="text">
  <br>
  留言内容 : <input type="text">
+ <p></p>
+ <p>提交</p>
  </div>
  <div class="ck" style="margin:0 auto; width:600px;height:200px;">
    <br>Some articles are just so long they deserve a really long title to see if things will break well
