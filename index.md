@@ -14,19 +14,19 @@ sitemap:
 <div class="sy" style="width:1222px; height:221px; margin:0 auto; text-align:center; ">
 <div class="sy_1" style="width:399px; height:439px; float:left;
 ">
-<img style="margin:0 auto" width="200" height="200" src="./jcb.jpg" />
+<img style="margin:0 auto" width="200" height="200" src=".img//jcb.jpg" />
 <span style=" position: absolute; top:600px; z-index:-1;"><a href="./message.md">个人博客</a></span>
 </div>
 
 <div class="sy_2"  style="width:399px; height:439px; float:left;
 ">
-<img style="margin:0 auto" width="200" height="200" src="./jcb.jpg" />
+<img style="margin:0 auto" width="200" height="200" src=".img//jcb.jpg" />
 <span style=" position: absolute; top:600px; z-index:-1;">个人博客</span>
 </div>
 
 <div class="sy_3" style="width:399px; height:439px;float:left;
  " >
-<img style="margin:0 auto" width="200" height="200" src="./jcb.jpg" />
+<img style="margin:0 auto" width="200" height="200" src=".img//jcb.jpg" />
 <span style=" position: absolute; top:539px; z-index:-1;">个人博客</span>
 </div>
 </div>
