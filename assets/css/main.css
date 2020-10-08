@@ -5,8 +5,9 @@
     font-size: 100%;
     color: #012;
     background-color: #333333; 
-    background-image: url("/assets/img/jcb.jpg");
-    background-repeat:no-repeat; background-size:100% 100%;
+    background-image: url("/assets/img/time.jpg");
+    background-repeat:no-repeat;
+     background-size:100% 100%;
 
   }
   a {
