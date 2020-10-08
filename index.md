@@ -14,11 +14,12 @@ sitemap:
 <div class="sy" style="width:1239px; height:666px; margin:0 auto">
 <div class="sy_1" style="width:600px; height:439px; float:left">
 <img width="399" height="200" src="./jcb.jpg" />
-<span style=" position: absolute; top:439px; z-index:-1;">个人博客</span>
+<span style=" position: absolute; top:600px; z-index:-1;">个人博客</span>
 </div>
 <div class="sy_2" style="width:600px; height:439px; float:left">
 <img width="399" height="200" src="./jcb.jpg" />
-<span style=" position: absolute; top:666px; z-index:-1;">个人博客</span>
+<span style=" position: absolute; top:539px; z-index:-1;">个人博客</span>
+</div>
 </div>
 
 
