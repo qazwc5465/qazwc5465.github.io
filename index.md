@@ -15,7 +15,7 @@ sitemap:
 <div class="sy_1" style="width:399px; height:439px; float:left;
 ">
 <img style="margin:0 auto" width="200" height="200" src="./jcb.jpg" />
-<span style=" position: absolute; top:600px; z-index:-1;">个人博客</span>
+<span style=" position: absolute; top:600px; z-index:-1;"><a href="./message.md">个人博客</a></span>
 </div>
 
 <div class="sy_2"  style="width:399px; height:439px; float:left;
