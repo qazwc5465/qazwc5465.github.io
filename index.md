@@ -12,7 +12,7 @@ sitemap:
 
 
 <div class="sy" style="width:90%; height:666px; margin:0 auto; text-align:center; position: relative;">
-<div class="sy_1" style="width:32%; height:439px; float:left; position: absolute;left:0;right:0;
+<div class="sy_1" style="width:32%; height:439px; float:left; position: absolute;left:0;right:0;margin:0 auto;
 ">
 <img width="200" height="200" src="./jcb.jpg" />
 <span style=" position: absolute; top:600px; z-index:-1;">个人博客</span>
