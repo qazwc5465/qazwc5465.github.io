@@ -11,7 +11,7 @@ sitemap:
 <div style="background:red; width:100%; height:100%"></div>
 
 
-<div class="sy" style="width:1222px; height:666px; margin:0 auto; text-align:center; ">
+<div class="sy" style="width:1222px; height:221px; margin:0 auto; text-align:center; ">
 <div class="sy_1" style="width:399px; height:439px; float:left;
 ">
 <img style="margin:0 auto" width="200" height="200" src="./jcb.jpg" />
