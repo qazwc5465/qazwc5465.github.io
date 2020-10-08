@@ -5,7 +5,8 @@
     font-size: 100%;
     color: #012;
     background-color: #333333; 
-    background-image: url(./img/jcb.jpg);
+    background-image: url("./img/jcb.jpg");
+
   }
 
   a {
