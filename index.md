@@ -33,5 +33,5 @@ sitemap:
 
 <div></div>
 <div id="describe-text">
-	<p>hghjfgh<strong> <a href="https://github.com/knhash/Pudhina"> repository</a> </strong></p>
+	<p>天道酬勤<strong> <a href="https://github.com/knhash/Pudhina"> repository</a> </strong></p>
 </div>
