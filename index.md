@@ -12,7 +12,7 @@ sitemap:
 
 
 <div class="sy" style="width:90%; height:666px; margin:0 auto; text-align:center;">
-<div class="sy_1" style="width:36%; height:439px; float:left">
+<div class="sy_1" style="width:32%; height:439px; float:left">
 <img style="text-align:center" width="399" height="200" src="./jcb.jpg" />
 <span style=" position: absolute; top:600px; z-index:-1;">个人博客</span>
 </div>
@@ -22,7 +22,7 @@ sitemap:
 <span style=" position: absolute; top:600px; z-index:-1;">个人博客</span>
 </div>
 
-<div class="sy_3" style="width:36%; height:439px; margin:0 auto;">
+<div class="sy_3" style="width:32%; height:439px; margin:0 auto;">
 <img style="text-align:center" width="399" height="200" src="./jcb.jpg" />
 <span style=" position: absolute; top:539px; z-index:-1;">个人博客</span>
 </div>
