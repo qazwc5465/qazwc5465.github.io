@@ -12,17 +12,17 @@ sitemap:
 
 
 <div class="sy" style="width:90%; height:666px; margin:0 auto; text-align:center;">
-<div class="sy_1" style="width:32%; height:439px; float:left; margin:0 auto">
+<div class="sy_1" style="width:32%; height:439px; float:left; margin:auto; text-align:center;">
 <img width="200" height="200" src="./jcb.jpg" />
 <span style=" position: absolute; top:600px; z-index:-1;">个人博客</span>
 </div>
 
-<div class="sy_2"  style="width:32%; height:439px;float:left; margin:0 auto ">
+<div class="sy_2"  style="width:32%; height:439px;float:left; margin:auto; text-align:center;">
 <img  width="200" height="200" src="./jcb.jpg" />
 <span style=" position: absolute; top:600px; z-index:-1;">个人博客</span>
 </div>
 
-<div class="sy_3" style="width:26%; height:439px; float:left; margin:0 auto" >
+<div class="sy_3" style="width:26%; height:439px; float:left; margin:auto; text-align:center;" >
 <img  width="200" height="200" src="./jcb.jpg" />
 <span style=" position: absolute; top:539px; z-index:-1;">个人博客</span>
 </div>
