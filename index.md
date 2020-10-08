@@ -11,27 +11,26 @@ sitemap:
 <div style="background:red; width:100%; height:100%"></div>
 
 
-<div class="sy" style="width:1222px; height:221px; margin:0 auto; text-align:center; ">
+<div class="sy" style="width:1222px; height:239px; margin:0 auto; text-align:center; ">
 <div class="sy_1" style="width:399px; height:439px; float:left;
 ">
 <a href="./message.md"><img style="margin:0 auto" width="200" height="200" src="./assets/img/jcb.jpg" /></a>
 <span style=" position: absolute; top:600px; z-index:-1;"></span>
 </div>
 
-<div class="sy_2"  style="width:399px; height:439px; float:left;
+<div class="sy_2"  style="width:399px; height:239px; float:left;
 ">
 <a href="./message.md"><img style="margin:0 auto" width="200" height="200" src="./assets/img/jcb.jpg" /></a>
 <span style=" position: absolute; top:600px; z-index:-1;">个人博客</span>
 </div>
 
-<div class="sy_3" style="width:399px; height:439px;float:left;
+<div class="sy_3" style="width:399px; height:239px;float:left;
  " >
 <a href="./message.md"><img style="margin:0 auto" width="200" height="200" src="./assets/img/jcb.jpg" /></a>
 <span style=" position: absolute; top:539px; z-index:-1;">个人博客</span>
 </div>
 </div>
 
-<div></div>
 <div id="describe-text">
 	<p>天道酬勤<strong> <a href="https://github.com/knhash/Pudhina"> repository</a> </strong></p>
 </div>
