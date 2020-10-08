@@ -13,8 +13,8 @@ sitemap:
 
 <div class="sy" style="width:1239px; height:666px; margin:0 auto">
 <div class="sy_1" style="width:600px; height:439px;">
-<img width="260" height="366" src="./jcb.jpg" />
-<span style=" position: absolute; top:300px; z-index:-1;">个人博客</span>
+<img width="399" height="200" src="./jcb.jpg" />
+<span style=" position: absolute; top:1000px; z-index:-1;">个人博客</span>
 </div>
 <div class="sy_2">
 </div>
